@@ -1,0 +1,14 @@
+body{
+    background: wheat;
+    text-align: center;
+    
+}
+
+.main{
+    height: 300px;
+    background: aquamarine;
+    color: blue;
+    margin: 20px;
+    border: 2px;
+    border-color: black;
+}
